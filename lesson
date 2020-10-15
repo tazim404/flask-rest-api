@@ -1,0 +1,4 @@
+What we are going to learn in this project:
+    1.How to make your own api
+    2.How to work with jsonify and especially dict more effective
+    3.Making api using vanilla flaks / flask_restful extension
